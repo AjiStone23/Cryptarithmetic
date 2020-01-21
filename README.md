@@ -11,16 +11,26 @@ Test Examples
 
 INPUT: "SEND + MORE = MONEY"   
 SOLUTION: "9567 + 1085 = 10652"
-
+ 
+INPUT:"ZEROES + ONES = BINARY"               
+SOLUTION:"698392 + 3192 = 701584"           
         
+INPUT: "COUPLE + COUPLE = QUARTET"  
+SOLUTION: "653924 + 653924 = 1307848"
+
+INPUT: "DO + YOU + FEEL = LUCKY"     
+SOLUTION: "57 + 870 + 9441 = 10368"
+        
+INPUT: "ELEVEN + NINE + FIVE + FIVE = THIRTY"   
+SOLUTION: "797275 + 5057 + 4027 + 4027 = 810386"
+                    
+INPUT: "ZEROES + ONES = BINARY"               
+SOLUTION: "698392 + 3192 = 701584"              
 
 INPUT: "ELEVEN + NINE + FIVE + FIVE = THIRTY"  
 SOLUTION: "797275 + 5057 + 4027 + 4027 = 810386"
 
-        
-
-
-
+     
 Technical Details
 
     All alphabetic letters in the input will be uppercase
